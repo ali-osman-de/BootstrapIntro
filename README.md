@@ -1,1 +1,1 @@
-<h3>Düzenli olarak tekrar amaçlı çalıştığım konuları buraya ekliyorum. Html ve css'i ayrı ayrı öğrenmek yerine bootstrap öğreniyorum.<h3/>
+<h2>Merhaba bu repoda Bootstrap 5'in çoğu işlevsel özelliklerini görebilirsiniz!</h2>
